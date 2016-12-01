@@ -1,0 +1,9 @@
+.buildpath
+.project
+.settings
+.externalToolBuilders/build.kunena.2.0.launch
+.idea/
+build/tmp
+components/com_kunena/site/template/**/params.ini
+components/com_kunena/site/template/crypsis/css/kunena.css
+Thumbs.db
